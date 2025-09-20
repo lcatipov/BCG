@@ -1,1 +1,6 @@
-Implementacija i analiza GMRES i BCG metoda u kojem je cilj pokazati potrebu za razvojem drugačijih metoda čime bi se reducirala količina posla kojeg treba obaviti i memorije koju treba zauzeti.
+# Iterativne metode za linearne sustave (MATLAB)
+
+MATLAB implementacija **Metode bikonjugiranih gradijenata (BCG)** i **Dvostranog Lanczosovog algoritma**
+za rješavanje nehermitskih problema.  
+Sadrži primjere usporedbe brzine konvergencije s GMRES metodom.
+
